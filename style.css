@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+}
+.section-1{
+    display: flex ;
+    padding-bottom: 80px;
+}
+.order{
+    
+    width: 50%;
+    padding-left: 80px;
+    padding-top: 60px;
+}
+.order img{
+    width: 70%;
+    padding-left: 60px;
+    
+}
+.order-btn{
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange,tomato);
+    border-radius: 40px;
+}
+.order h1{
+    font-size: 45px;
+    padding-top: 50px;
+    padding-right: 100px;
+    color: grey;
+}
+.order p{
+    text-align: justify;
+    padding-bottom: 40px;
+    padding-right: 20px;
+    color: gray;
+}
+.section-2{
+    display: flex;
+    
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+}
+.about{
+    width: 50%;
+    padding-left: 100px;
+    
+}
+.about img{
+    width: 70%;
+    padding-top: 20px;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+
+.about h1{
+    font-size: 30px;
+    padding-top: 140px;
+    color: grey;
+}
+.about p{
+    padding-right: 150px;
+    padding-top: 20px;
+    text-align: justify;
+    padding-bottom: 50px;
+    color: gray;
+}
+.about-btn{
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange,tomato);
+    border-radius: 40px;
+}
