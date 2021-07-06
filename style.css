@@ -75,3 +75,40 @@ body{
     background-image: linear-gradient(orange,tomato);
     border-radius: 40px;
 }
+#recipies{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 35px;
+    color: grey;
+    padding-bottom: 10px;
+}
+.body-p{
+    text-align: center;
+    color: gray;
+    padding-bottom: 25px;
+}
+.section-3{
+    display: flex;
+    
+}
+.recipies{
+    width: 45%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 30px;
+    padding-top: 30px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 20px;
+    padding-bottom: 30px;
+}
+.recipies img{
+    width: 90%;
+}
+.recipies h2{
+    padding-top: 30px;
+}
+.recipies p{
+    padding-right: 50px;
+    text-align: justify;
+    color: gray;
+}
