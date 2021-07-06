@@ -112,3 +112,19 @@ body{
     text-align: justify;
     color: gray;
 }
+.footer{
+    background: black;
+    text-align: center;
+    margin-top: 7%;
+    
+}
+.footer h3{
+    color: grey;
+    text-align: center;
+    padding-top: 20px;
+}
+.footer p{
+    color: gray;
+    text-align: ;
+    padding-bottom: 40px;
+}
