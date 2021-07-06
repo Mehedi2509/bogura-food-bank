@@ -12,7 +12,7 @@ body{
     padding-top: 60px;
 }
 .order img{
-    width: 70%;
+    width: 75%;
     padding-left: 60px;
     
 }
@@ -24,8 +24,8 @@ body{
     border-radius: 40px;
 }
 .order h1{
-    font-size: 45px;
-    padding-top: 50px;
+    font-size: 40px;
+    padding-top: 40px;
     padding-right: 100px;
     color: grey;
 }
@@ -115,16 +115,36 @@ body{
 .footer{
     background: black;
     text-align: center;
-    margin-top: 7%;
+    margin-top: 5%;
     
 }
 .footer h3{
     color: grey;
-    text-align: center;
     padding-top: 20px;
 }
 .footer p{
     color: gray;
-    text-align: ;
     padding-bottom: 40px;
+}
+.section-4{
+    display: flex;
+    width: 88%;
+    margin-top: 7%;
+    box-shadow: 10px 10px 30px gray;
+    padding-left: 30px;
+    margin-left: 5%;
+    border-radius: 20px;
+    
+}
+.s-media{
+    width: 30%;
+    padding-left: 70px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.s-media h1{
+    font-size: 40px;
+}
+.s-media p{
+    color: gray;
 }
